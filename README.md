@@ -1,2 +1,4 @@
-# ebac-github
-Modulo 05 - github py
+# Ebac-Github
+Modulo 05 - Github Python
+
+# Curso de backend Python da Ebac
